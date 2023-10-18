@@ -1,0 +1,10 @@
+The web server is built into a couple of folders/directories:
+
+
+data:
+    data is where the data of all the videos will end up being stored. As the website is run
+    and videos are getting turned into NeRFs, the data folder will fill up.
+
+docker:
+    docker simply contains the docker setup file.
+
